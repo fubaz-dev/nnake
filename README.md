@@ -1,4 +1,4 @@
-# nnnake
+# nnake
 Simple, retro snake game on the terminal; made with C and ncurses.
 
 ## Dependencies
